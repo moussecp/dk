@@ -1,4 +1,4 @@
-package domain.characters;
+package domain.character;
 
 import java.util.Map;
 import java.util.Objects;

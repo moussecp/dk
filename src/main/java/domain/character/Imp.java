@@ -1,4 +1,4 @@
-package domain.characters;
+package domain.character;
 
 public class Imp extends Creature {
 

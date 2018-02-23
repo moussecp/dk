@@ -1,4 +1,4 @@
-package domain.characters;
+package domain.character;
 
 import javax.persistence.Entity;
 import java.util.Objects;
